@@ -1,5 +1,7 @@
 # Facebook-Ad-Campaigns-Performance-Analysis-SQL
-## DataSet Details:
+
+## Dataset: https://www.kaggle.com/datasets/nguynnguynnht/facebook-adcampaigns
+## Dataset Details:
 The data used in this project is from an anonymous organization’s social media ad campaign.
 
 1.) **ad_id**: a unique ID for each ad.
@@ -23,10 +25,22 @@ The data used in this project is from an anonymous organization’s social media
 
 11.) **Approved_conversion**: Total number of people who bought the product after seeing the ad.
 
- *In this solo project, we embark on a data-driven exploration of XYZ company's captivating advertising endeavors. Armed with PostgreSQL and a passion for uncovering insights, I have meticulously crafted 23 custom SQL queries to extract invaluable nuggets of information from the dataset.*
+
+ *In this solo project, we embark on a data-driven exploration of XYZ company's captivating advertising endeavors. Armed with **PostgreSQL** and a passion for uncovering insights, I have meticulously crafted **23 custom SQL queries** to extract invaluable nuggets of information from the dataset.*
 ## Objective 
 * Conduct an in-depth analysis of Facebook Ad Campaigns.
 * Unveil the secrets behind the success and impact of XYZ company's advertising strategies.
 
-## 
+## Key Performance Indicators (KPIs)
+In this project, our focus revolves around pivotal KPIs that are the lifeblood of any successful campaign:
+* **Ad Reach**: We'll check Impressions to see how many people saw each ad and its potential audience.
 
+* **Ad Engagement**: Using Clicks, we'll see how well the ads attracted and engaged the audience.
+
+* **Ad Conversion**: Total_conversion reveals the number of potential customers who inquired about the product.
+
+* **Ad Cost**: We'll analyze the Spent metric to understand the campaign's financial investment.
+
+* **Ad ROI** (Return on Investment): By comparing Spent with Approved_conversion, we'll calculate the campaign's true value.
+
+* **Audience Insights**: Analyzing age, gender, and interests will provide valuable information about the target audience.
