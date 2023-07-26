@@ -1,6 +1,5 @@
 # Facebook-Ad-Campaigns-Performance-Analysis-SQL
-## Data:
-
+## DataSet Details:
 The data used in this project is from an anonymous organization’s social media ad campaign.
 
 1.) ad_id: a unique ID for each ad.
