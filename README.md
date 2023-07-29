@@ -17,6 +17,7 @@ The data used in this project is from an anonymous organization’s social media
 6.) **interest**: a code specifying the category to which the person’s interest belongs (interests are as mentioned in the person’s Facebook public profile).
 
 7.) **Impressions**: the number of times the ad was shown.
+
 8.) **Clicks**: the number of clicks on for that ad.
 
 9.) **Spent**: Amount paid by company xyz to Facebook, to show that ad.
