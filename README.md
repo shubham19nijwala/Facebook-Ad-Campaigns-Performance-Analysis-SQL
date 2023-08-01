@@ -32,7 +32,7 @@ The data used in this project is from an anonymous organization’s social media
 11.) **Approved_conversion**: Total number of people who bought the product after seeing the ad.
 
 
- *In this solo project, we embark on a data-driven exploration of XYZ company's captivating advertising endeavors. Armed with **PostgreSQL** and a passion for uncovering insights, I have meticulously crafted **23 custom SQL queries** to extract invaluable nuggets of information from the dataset.*
+ *In this project, I embark on a data-driven exploration of XYZ company's captivating advertising endeavors. Armed with **PostgreSQL** and a passion for uncovering insights, I have meticulously crafted **23 custom SQL queries** to extract invaluable nuggets of information from the dataset.*
 ## Objective 
 * Conduct an in-depth analysis of Facebook Ad Campaigns.
 * Unveil the secrets behind the success and impact of XYZ company's advertising strategies.
