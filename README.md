@@ -1,4 +1,4 @@
-# Facebook-Ad-Campaigns-Performance-Analysis-SQL
+# Facebook-Ad-Campaigns-Performance-Analysis
 
 ## Tableau Dashboard
 ### Link : https://public.tableau.com/app/profile/shubham.nijwala2695
