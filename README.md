@@ -1,5 +1,9 @@
 # Facebook-Ad-Campaigns-Performance-Analysis-SQL
 
+## Tableau Dashboard
+![Facebook Ad Campaigns](https://github.com/shubham19nijwala/Facebook-Ad-Campaigns-Performance-Analysis-SQL/assets/130289158/aba7e255-e25f-48c7-b17b-eec3e552d093)
+
+
 ## Dataset: https://www.kaggle.com/datasets/nguynnguynnht/facebook-adcampaigns
 ## Dataset Details:
 The data used in this project is from an anonymous organization’s social media ad campaign.
